@@ -1,0 +1,4 @@
+github.com/yeqf911/testmod v1.1.0 h1:WUrrKDlWzb6kgdX9Tv4qeaTslr2mnSiSZkoFqMIbCnE=
+github.com/yeqf911/testmod v1.1.0/go.mod h1:aGaDoy0Dr1HCr+SIvG8KfbKKA79wj+F3nTlfNXxY0lE=
+github.com/yeqf911/testmod/v2 v2.0.0 h1:TB6kAAK13aKNV4pzYQql8mo4Q2ZbSYviZcLwE43kJXc=
+github.com/yeqf911/testmod/v2 v2.0.0/go.mod h1:BXmAJPE4L3je9DRJ/uaKE+cm437nRq0kqlkuvjyXR+8=
